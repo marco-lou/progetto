@@ -1,0 +1,23 @@
+sensore di coppia: // vataggi e svantaggi... errori e controlli
+
+	https://www.ethosbikes.it/?p=722
+
+caratteristiche ferromagnetiche: // isteresi,
+
+	https://it.wikipedia.org/wiki/Ferromagnetismo
+
+robotica flessibile:
+
+	https://www.prorob.it/it/soluzioni/applicazioni-robotiche
+torsione:
+	https://it.wikipedia.org/wiki/Torsione
+
+video su youtub: // flexible joint robots
+	https://www.youtube.com/watch?v=cmgOqrd2yiY
+
+how a differential equation becomes a robot:
+	
+	https://www.youtube.com/watch?v=apPJtJqCu44
+
+
+
